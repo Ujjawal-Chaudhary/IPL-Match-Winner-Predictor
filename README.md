@@ -16,7 +16,7 @@ Streamlit: For creating the web app interface.
 Installation
 CLONE THE REPOSITORY:
 
-git clone https://github.com/USERNAME/IPL-Match-Winner-Predictor.git
+git clone https://github.com/Ujjawal-Chaudhary/IPL-Match-Winner-Predictor.git
 cd IPL-Match-Winner-Predictor
 Install the required dependencies:
 
